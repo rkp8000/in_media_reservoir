@@ -1,0 +1,8 @@
+*
+
+!*.md
+!*.ipynb
+!*.py
+!.gitignore
+
+Oger
